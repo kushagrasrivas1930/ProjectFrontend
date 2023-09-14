@@ -1,0 +1,50 @@
+.navBar{
+    height: 10vh;
+    color:aliceblue;
+    font-weight:700;
+    padding-top: 50px;
+    background: #E8B131;
+    font-size:x-large;
+}
+#navBrand{
+    margin-left:140px;
+    color: #FFF;
+    font-family: Outfit;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.btn{
+    width: 206px;
+    height: 42px;
+    flex-shrink: 0;
+    color: #FFF;
+    text-align: center;
+    font-family: Outfit;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.icon{
+    margin-left:20px !important;
+    margin-right: 20px !important;
+    color: #FFF !important;
+    font-family: Outfit;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.icon:hover{
+    cursor: pointer;
+}
+
+.icons{
+    position:absolute;
+    right:100px !important;
+}
+
+
