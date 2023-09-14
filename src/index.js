@@ -2,13 +2,15 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import Cart from './Components/Cart';
 import reportWebVitals from './reportWebVitals';
 import Profile from './Components/profile'
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     {/* <App /> */}
-    <Profile/>
+    {/* <Profile/> */}
+    <Cart />
   </React.StrictMode>
 );
 
