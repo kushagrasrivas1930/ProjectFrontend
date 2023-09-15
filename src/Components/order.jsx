@@ -11,7 +11,8 @@ class Order extends Component {
                     <br></br>
                     <div className="prodDesc">Lorem ipsum dolor sit amet consectetur adipisicing elit.</div>
                 </div>
-                
+                <div></div>
+
             </div>
         )
     }

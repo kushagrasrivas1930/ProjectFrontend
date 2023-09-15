@@ -16,11 +16,6 @@ class Cart extends Component {
                     <hr />
                     <Order />
                     <Order />
-                    <Order />
-                    <Order />
-                    
-
-
                 </div>
             </div>
 
